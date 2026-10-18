@@ -1,0 +1,61 @@
+<deck version="1.0">
+	<meta>
+		<date>03/29/2002</date>
+		<game>Yu-Gi-Oh! CCG</game>
+		<format>TCG</format>
+	</meta>
+	<superzone name="Main Deck">
+		<card><name id="93221206.png">Ancient Elf</name><set>LIGH-OCG01</set></card>
+		<card><name id="48365709.png">Assassin/Ansatsu</name><set>EART-OCG01</set></card>
+		<card><name id="47060154.png">Berserker/Mystic Clown</name><set>DARK-OCG01</set></card>
+		<card><name id="46986414.png">Black Magician/Dark Magician</name><set>DARK-OCG01</set></card>
+		<card><name id="28279543.png">Curse of Dragon</name><set>DARK-OCG01</set></card>
+		<card><name id="49218300B.png">Dead Sorcerer/Sorcerer of the Doomed</name><set>DARK-TCG01</set></card>
+		<card><name id="36304921.png">Djinn Death-Satan/Witty Phantom</name><set>DARK-OCG01</set></card>
+		<card><name id="16972957.png">Doma the Angel of Silent Death/Doma The Angel of Silence</name><set>DARK-OCG01</set></card>
+		<card><name id="66672569.png">Dragon Zombie</name><set>DARK-OCG01</set></card>
+		<card><name id="91152256.png">Elf Swordsman/Celtic Guardian</name><set>EART-OCG01</set></card>
+		<card><name id="87796900.png">Fortress-Protecting Winged Dragon/Winged Dragon, Guardian of the Fortress #1</name><set>WIND-OCG01</set></card>
+		<card><name id="06368038.png">Gaia the Dark Knight/Gaia the Fierce Knight</name><set>EART-OCG01</set></card>
+		<card><name id="13039848.png">Giant Soldier of Stone</name><set>EART-OCG01</set></card>
+		<card><name id="13429800.png">Great White</name><set>WATE-OCG01</set></card>
+		<card><name id="41392891.png">Gremlin/Feral Imp</name><set>DARK-OCG01</set></card>
+		<card><name id="15025844.png">Holy Elf/Mystical Elf</name><set>LIGH-OCG01</set></card>
+		<card><name id="41218256.png">Killer the Claw/Claw Reacher</name><set>DARK-OCG01</set></card>
+		<card><name id="32452818.png">Louise/Beaver Warrior</name><set>EART-OCG01</set></card>
+		<card><name id="46474915.png">Magical Ghost</name><set>DARK-OCG01</set></card>
+		<card><name id="40374923.png">Mammoth Graveyard</name><set>EART-OCG01</set></card>
+		<card><name id="13723605.png">Man-Eating Treasure Chest</name><set>DARK-OCG01</set></card>
+		<card><name id="50930991.png">Neo the Magic Swordsman</name><set>LIGH-OCG01</set></card>
+		<card><name id="90357090.png">Silver Fang</name><set>EART-OCG01</set></card>
+		<card><name id="70781052.png">Summoned Daemon/Summoned Skull</name><set>DARK-OCG01</set></card>
+		<card><name id="86325596.png">Wicked Sword Baron/Baron of the Fiend Sword</name><set>DARK-OCG01</set></card>
+		<card><name id="54652250.png">Man-Eater Bug</name><set>EART-OCG01</set></card>
+		<card><name id="87557188.png">Stern Old Magician/The Stern Mystic</name><set>LIGH-OCG01</set></card>
+		<card><name id="46461247.png">Trap Master</name><set>EART-OCG01</set></card>
+		<card><name id="13945283.png">Wall of Illusion</name><set>DARK-OCG01</set></card>
+		<card><name id="53129443.png">Black Hole/Dark Hole</name><set>SPEL-OCG01</set></card>
+		<card><name id="91595718.png">Book of Secret Arts</name><set>SPEL-OCG01</set></card>
+		<card><name id="04031928.png">Change of Heart</name><set>SPEL-OCG01</set></card>
+		<card><name id="68005187.png">Cross Soul/Soul Exchange</name><set>SPEL-OCG01</set></card>
+		<card><name id="59197169.png">Darkness/Yami</name><set>SPEL-OCG01</set></card>
+		<card><name id="37120512.png">Destruction Divine Sword of Darkness/Sword of Dark Destruction</name><set>SPEL-OCG01</set></card>
+		<card><name id="84257639B.png">Dian Keto the Cure God/Dian Keto the Cure Master</name><set>SPEL-TCG01</set></card>
+		<card><name id="66788016.png">Fissure</name><set>SPEL-OCG01</set></card>
+		<card><name id="72892473.png">Hand Obliteration/Card Destruction</name><set>SPEL-OCG01</set></card>
+		<card><name id="85602018B.png">Last Will</name><set>SPEL-TCG01</set></card>
+		<card><name id="19159413.png">Magic Removal/De-Spell</name><set>SPEL-OCG01</set></card>
+		<card><name id="51482758.png">Remove Trap</name><set>SPEL-OCG01</set></card>
+		<card><name id="83764718B.png">Resurrection of the Dead/Monster Reborn</name><set>SPEL-TCG01</set></card>
+		<card><name id="77622396.png">Amanojaku&apos;s Curse/Reverse Trap</name><set>TRAP-OCG01</set></card>
+		<card><name id="80604091ERRA.png">Blood Compensation/Ultimate Offering</name><set>FORB-OCG01</set></card>
+		<card><name id="44209392.png">Castle Walls</name><set>TRAP-OCG01</set></card>
+		<card><name id="50045299.png">Dragon-Tribe Seal Jar/Dragon Capture Jar</name><set>TRAP-OCG01</set></card>
+		<card><name id="12607053.png">Emissaries of Reconciliation/Waboku</name><set>TRAP-OCG01</set></card>
+		<card><name id="83887306.png">Pincer Attack/Two-Pronged Attack</name><set>TRAP-OCG01</set></card>
+		<card><name id="04206964.png">Pitfall/Trap Hole</name><set>TRAP-OCG01</set></card>
+		<card><name id="17814387.png">Reinforcements</name><set>TRAP-OCG01</set></card>
+
+	
+	</superzone>
+</deck>

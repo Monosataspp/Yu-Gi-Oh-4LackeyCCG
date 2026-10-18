@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<date>03/29/2002</date>
+		<game>Yu-Gi-Oh! CCG</game>
+		<format>TCG</format>
+	</meta>
+	<superzone name="Main Deck">
+		<card><name id="47060154.png">Berserker/Mystic Clown</name><set>DARK-OCG01</set></card>		
+		<card><name id="89631139.png">Blue-Eyes White Dragon</name><set>LIGH-OCG01</set></card>
+		<card><name id="76184692.png">Cyclops/Hitotsu-Me Giant</name><set>EART-OCG01</set></card>
+		<card><name id="41949033.png">Dark Assassin/Dark Assailant</name><set>DARK-OCG01</set></card>
+		<card><name id="89494469.png">Dark Demon Nightmare/Dark Titan of Terror</name><set>DARK-OCG01</set></card>
+		<card><name id="67724379.png">Devil Dragon/Koumori Dragon</name><set>DARK-OCG01</set></card>
+		<card><name id="24611934.png">Gargoyle Powered/Ryu-Kishin Powered</name><set>DARK-OCG01</set></card>
+		<card><name id="15303296.png">Gargoyle/Ryu-Kishin</name><set>DARK-OCG01</set></card>
+		<card><name id="31122090.png">Goddess of Reversal/Gyakutenno Megami</name><set>LIGH-OCG01</set></card>
+		<card><name id="91939608.png">Holy Doll/Rogue Doll</name><set>LIGH-OCG01</set></card>		
+		<card><name id="97590747.png">La Jinn the Demonic Spirit of the Lamp/La Jinn the Mystical Genie of the Lamp</name><set>DARK-OCG01</set></card>
+		<card><name id="97360116.png">Nameless Warrior of Evil/Unknown Warrior of Fiend</name><set>DARK-OCG01</set></card>
+		<card><name id="10202894.png">Sky Hunter/Skull Red Bird</name><set>WIND-OCG01</set></card>
+		<card><name id="50005633.png">Sword Stalker of Revenge/Swordstalker</name><set>DARK-OCG01</set></card>
+		<card><name id="63308047.png">Terra the Djinn/Terra the Terrible</name><set>DARK-OCG01</set></card>
+		<card><name id="01784619.png">Wild Raptor/Uraby</name><set>EART-OCG01</set></card>
+
+		<card><name id="07089711.png">Hane-Hane</name><set>EART-OCG01</set></card>
+		<card><name id="06285791.png">The Wicked Worm Beast</name><set>EART-OCG01</set></card>
+		<card><name id="46461247.png">Trap Master</name><set>EART-OCG01</set></card>
+
+		<card><name id="17092736.png">Ancient Telescope</name><set>SPEL-OCG01</set></card>
+		<card><name id="98374133.png">Awakening/Invigoration</name><set>SPEL-OCG01</set></card>
+		<card><name id="53129443.png">Black Hole/Dark Hole</name><set>SPEL-OCG01</set></card>
+		<card><name id="04614116.png">Darkness Energy/Dark Energy</name><set>SPEL-OCG01</set></card>
+		<card><name id="66788016.png">Fissure</name><set>SPEL-OCG01</set></card>
+		<card><name id="86318356.png">Grassland/Sogen</name><set>SPEL-OCG01</set></card>
+		<card><name id="19523799.png">Large Fire of Day and Night/Ookazi</name><set>SPEL-OCG01</set></card>
+		<card><name id="19159413.png">Magic Removal/De-Spell</name><set>SPEL-OCG01</set></card>
+		<card><name id="51482758.png">Remove Trap</name><set>SPEL-OCG01</set></card>
+		<card><name id="83764718B.png">Resurrection of the Dead/Monster Reborn</name><set>SPEL-TCG01</set></card>
+		<card><name id="43973174.png">The Flute of Summoning Dragon</name><set>SPEL-OCG01</set></card>
+		<card><name id="81820689.png">The Inexperienced Spy</name><set>SPEL-OCG01</set></card>
+
+		<card><name id="77622396.png">Amanojaku&apos;s Curse/Reverse Trap</name><set>TRAP-OCG01</set></card>
+		<card><name id="80604091ERRA.png">Blood Compensation/Ultimate Offering</name><set>FORB-OCG01</set></card>		
+		<card><name id="44209392.png">Castle Walls</name><set>TRAP-OCG01</set></card>
+		<card><name id="24068492.png">Just Desserts</name><set>TRAP-OCG01</set></card>
+		<card><name id="83887306.png">Pincer Attack/Two-Pronged Attack</name><set>TRAP-OCG01</set></card>
+		<card><name id="04206964.png">Pitfall/Trap Hole</name><set>TRAP-OCG01</set></card>		
+		<card><name id="17814387.png">Reinforcements</name><set>TRAP-OCG01</set></card>
+
+	</superzone>
+</deck>
