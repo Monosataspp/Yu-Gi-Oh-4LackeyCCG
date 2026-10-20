@@ -13,4 +13,5 @@
 * **BT-YGO**: Booster Pack template.
 * **HolyCrapWhiteDragon**: Card back template.
 * **grezar**, **nhociory**, and **TheHungTD**: Card artworks.
-Yu-Gi-Oh! OCG/TCG is owned by Konami (since 1999), this plugin is for entertainment purpose only. NOT FOR SALE.
+<br>Yu-Gi-Oh! Official Card Game & Trading Card Game is owned by Konami (since 1999), this plugin is for entertainment purpose only.
+<br>NOT FOR SALE.
